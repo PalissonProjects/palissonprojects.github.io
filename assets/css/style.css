@@ -421,11 +421,11 @@ p {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > 
 .active > a:focus {
   background: transparent;
-  color: #fc6e51;
+  color: goldenrod;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-  color: #fc6e51;
+  color: goldenrod;
 }
 
 .dropdown-menu {
@@ -447,12 +447,12 @@ p {
 
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
   background-color: #fff;
-  color: #fc6e51;
+  color: goldenrod;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
   background-color: #fff;
-  color: #fc6e51;
+  color: goldenrod;
 }
 
 .navbar-default .dropdown:hover>.dropdown-menu {
