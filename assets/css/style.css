@@ -77,7 +77,7 @@ body {
 }
 
 a {
-  color: #fc6e51;
+  color: goldenrod;
   -webkit-transition: all .25s ease-in-out;
      -moz-transition: all .25s ease-in-out;
       -ms-transition: all .25s ease-in-out;
@@ -1197,7 +1197,7 @@ h6.progress-value {
 }
 
 #banner-services {
-  background: url('../images/temp/stats-bg.jpg') center top;
+  background: url('../images/law-hammer-2.jpg') center top;
   position: relative;
   border-bottom: 1px solid transparent;
 }
