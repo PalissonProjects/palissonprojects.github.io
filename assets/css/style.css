@@ -752,7 +752,7 @@ ul.choose-list li, ul.soon-list li {
 
 .iconbox i {
   font-size: 32px;
-  color: #fc6e51
+  color: goldenrod;
 }
 
 .choose-box-content, .soon-box-content {
@@ -1815,7 +1815,7 @@ ul.features-list li {
 
 .iconbox i {
   font-size: 32px;
-  color: #fc6e51
+  color: goldenrod;
 }
 
 .features-box-content {
